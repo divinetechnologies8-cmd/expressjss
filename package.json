@@ -1,0 +1,20 @@
+{
+  "name": "expressjss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.17.2",
+    "nodemon": "^3.1.11",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
