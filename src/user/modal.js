@@ -21,10 +21,7 @@ user_password:{
     type:DataTypes.STRING,
     allowNull:false
 },
-user_profile:{
-    type:DataTypes.STRING,
-    allowNull:false
-},
+
 user_address:{
     type:DataTypes.STRING,
     allowNull:true
